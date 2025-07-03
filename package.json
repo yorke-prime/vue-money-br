@@ -1,0 +1,27 @@
+{
+  "name": "vuejs-money",
+  "version": "1.0.7",
+  "description": "Mask (directive) for VueJS",
+  "main": "src/index.js",
+  "files": [
+    "/src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyorke-prime/vue-money-br.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "money",
+    "mask",
+    "mascara",
+    "dinheiro"
+  ],
+  "author": "Franciel Santos Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyorke-prime/vue-money-br/issues"
+  },
+  "homepage": "https://github.com/lyorke-prime/vue-money-br#readme"
+}
