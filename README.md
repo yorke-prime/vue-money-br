@@ -10,9 +10,9 @@
 
 
 ```js
-npm install vuejs-money --save
+npm install vuejs-money-br --save
 
-import money from  'vuejs-money'
+import money from  'vuejs-money-br'
 Vue.use(money)
 ```
 
